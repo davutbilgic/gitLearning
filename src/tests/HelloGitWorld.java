@@ -6,7 +6,7 @@ public class HelloGitWorld {
         System.out.println("Hello new world");
 
 
-        
+
         System.out.println("hello hello");
     }
 }

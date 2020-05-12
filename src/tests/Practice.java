@@ -5,7 +5,7 @@ public class Practice {
 
         //Hellooooooooooooooooooooooooo
         
-        //htisa alsdjfads
-        //adsfkasdf
+        //son degisiklik
+        
     }
 }
